@@ -2,19 +2,19 @@
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ixoworld)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/ixo-blog)
 
-# Impacts AI
+# ImpactsAI
 ### The platform for trusted Impact Oracles.
 We are a community of developers pioneering the next generation of decentralized autonomous agents, using Web3 and Causal AI.  
-Impacts AI is an open platform for researching, building, and deploying Impact Oracles that are designed to sense, evaluate, and respond to real-world changes, take actions, and verify the outcomes.
+ImpactsAI is an open platform for researching, building, and deploying Impact Oracles that are designed to sense, evaluate, and respond to real-world changes, take actions, and verify the outcomes.
 
-Impacts AI provides a suite of tools to build, deploy, and monetize Impact Oracles. Our platform provides the technical infrastructure you need to develop sophisticated Decentralised Autonomous Agents.
+ImpactsAI provides a suite of tools to build, deploy, and monetize Impact Oracles. Our platform provides the technical infrastructure you need to develop sophisticated Decentralised Autonomous Agents.
 
 ## What Are Impact Oracles? 🤖
 Impact Oracles are AI-driven Decentralised Autonomous Agents operating from secure Web3 infrastructure, to assist with causal decision-making, process automation, and verification of actions that generate real-world impacts.  
 Impact Oracles are ownable, verifiable, controllable, explainable, well-governed, accountable, and include humans in the loop.
 
 ## Oracle Creators Studio 🌱
-Unlock the full potential of your Impact Oracle development journey with the Impacts AI Creator Studio. This intuitive platform is designed to support developers in creating, testing, and deploying Impact Oracles. It provides a rich set of features, including:
+Unlock the full potential of your Impact Oracle development journey with the ImpactsAI Creator Studio. This intuitive platform is designed to support developers in creating, testing, and deploying Impact Oracles. It provides a rich set of features, including:
 - User-friendly visual interface: Easily design and configure your Impact Oracles with drag-and-drop tools.
 - Comprehensive code editor: Write, review, and edit your code with syntax highlighting and auto-completion features.
 - Robust testing suite: Validate the performance and reliability of your Impact Oracles with various testing tools.
@@ -38,6 +38,7 @@ Impact Oracles are built on the Internet of Impacts Technology Stack, which feat
 - **Programmable Protocols:** Automate structured workflows and interactions with third-party services with executable protocols.
 - **Event-Driven Payments:** Enable automated payments for services rendered.
 - **Digital Identifiers:** Authenticate agents with secure digital IDs and verifiable credentials.
+- **Location Awareness**: Integrates the next-gen [UNL](https://unl.global/) mapping protocol and micro-location infrastructure that radically changes how we navigate and interact with the physical world. 
 - **Verifiable Claims:** Fuse data pipelines and attestations into a high-definition data format that is verifiable, semantically structured, graph-based, and machine readable.
 - **Decentralised Governance:** Implement decentralised governance with advanced DAO tooling and the ability to include both AI agents and humans in decision consensus.
 - **Executable Deeds:** Manage requests, offers, and governance proposals that are executed with governance controls and built-in verification mechanisms.
@@ -47,11 +48,11 @@ Impact Oracles are built on the Internet of Impacts Technology Stack, which feat
 - **Verifiable ML:** Employ zK Proofs for verifiable machine learning with Giza Protocol.
 
 ## Community 😃
-Join the Impacts AI Developer Community  
+Join the ImpactsAI Developer Community  
 Connect with a global network of developers using AI for Good. Collaborate, share knowledge, and contribute to the evolving ecosystem of Impact Oracles.
 - Work together with like-minded developers on groundbreaking projects.
 - Benefit from the collective intelligence of the community through open source code and libraries.
 - Access a wealth of tutorials, guides, and case studies to enhance your skills and knowledge.
 - Get recognised for your contributions and climb the ranks in our community leaderboard.
 ## About 🌍
-Impacts AI is cooperatively owned by the **Impacts Venture Cooperative** and governed by the **Impacts AI DAO**
+ImpactsAI is cooperatively owned by the **Impacts Venture Cooperative** and governed by the **ImpactsAI DAO**
